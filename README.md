@@ -2,4 +2,4 @@
 #
 #
 #
-# Basic Java App for determining the cost of college
+# Basic App for determining the cost of college
